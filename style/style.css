@@ -1,0 +1,13 @@
+/*------------------------------Nav-------------------------------*/
+img{width: 100%;}
+#list_brand{
+    background-color: aliceblue;
+    padding: 7px;
+}
+/*------------------------------Main-------------------------------*/
+#ranken_r{height:178px;width: 178px;}
+
+
+/*------------------------Special classess-------------------------------*/
+.text-ranken-red{color: #e51937;}
+.bg-ranken-red{background-color: #e51937;}
